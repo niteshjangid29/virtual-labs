@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Wheatstone Bridge",
+        "description": "A Wheatstone bridge is an electrical circuit used to measure an unknown electrical resistance by balancing two legs of a bridge circuit, one leg of which includes the unknown component.",
+        "image": "./images/maxwell_bridge.png"
+    },
+    {
+        "id": 2,
+        "title": "Maxwell Bridge",
+        "description": "A Maxwell bridge is a modification of the Wheatstone bridge used to measure an unknown inductance in terms of calibrated resistance and capacitance.",
+        "image": "./images/maxwell_bridge.png"
+    },
+    {
+        "id": 3,
+        "title": "Schering Bridge",
+        "description": "A Schering bridge is a bridge circuit used for measuring the capacitance of a capacitor. It is also known as a capacitance bridge.",
+        "image": "./images/schering_bridge.png"
+    },
+    {
+        "id": 4,
+        "title": "Anderson Bridge",
+        "description": "An Anderson bridge is a bridge circuit used for measuring the self-inductance of a coil. It is also known as an inductance bridge.",
+        "image": "./images/anderson_bridge.png"
+    },
+    {
+        "id": 5,
+        "title": "Owen Bridge",
+        "description": "An Owen bridge is a bridge circuit used for measuring the mutual inductance between two coils.",
+        "image": "./images/owens_bridge.png"
+    },
+    {
+        "id": 6,
+        "title": "Wiens Series Bridge",
+        "description": "A Wiens Series Bridge is a bridge circuit used for measuring the capacitance of a capacitor.",
+        "image": "./images/wiens_series.png"
+    },
+    {
+        "id": 7,
+        "title": "Wien Robinson Bridge",
+        "description": "A Wien Robinson Bridge is a bridge circuit used for measuring the capacitance of a capacitor.",
+        "image": "./images/wien_robinson_bridge.png"
+    }
+]
